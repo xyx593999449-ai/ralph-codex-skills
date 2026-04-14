@@ -1,0 +1,4 @@
+interface:
+  display_name: "运行 Ralph Codex"
+  short_description: "检查项目环境并运行 Codex 版 Ralph 循环。"
+  default_prompt: "使用 $run-ralph-codex 为当前项目补齐 Ralph 运行文件并执行下一轮 Codex 循环。"
