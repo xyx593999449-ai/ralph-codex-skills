@@ -2,6 +2,9 @@
 
 ## 2026-04-14
 
+### Added
+- Added an explicit MIT `LICENSE` for the published four-skill package, preserving attribution for the Ralph and `superpowers` source material.
+
 ### Changed
 - Rewrote `README.md` in Simplified Chinese for the open-source Codex adaptation, clarifying that the public package is the four-skill bundle under `skills/`, not a requirement to copy the whole repository root.
 - Refocused `README.md` around the Codex global-skill installation path and documented `run-ralph-codex` as a self-contained skill that injects its own runtime templates into target projects.
